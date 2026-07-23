@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+env/
+
+# Database
+*.db
+
+# Config (API KEY)
+config.py
+
+# OS
+.DS_Store
